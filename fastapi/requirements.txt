@@ -3,4 +3,4 @@ uvicorn
 fastapi
 tf_keras
 python-multipart
-weaviate-client==3.26.7 --no-deps
+weaviate-client==3.26.7

@@ -11,7 +11,7 @@ RUN sed -i 's/deb.debian.org/mirror.yandex.ru/g' /etc/apt/sources.list.d/debian.
 RUN apt-get update && apt-get install -y \
     # libgl1 \
     # libglib2.0-0 \
-    fmpeg \
+    ffmpeg \
     libsm6 \
     libxext6 \
     libhdf5-dev \
