@@ -1,6 +1,8 @@
-deepface
-uvicorn
 fastapi
-tf_keras
+uvicorn
 python-multipart
+deepface
+opencv-python-headless
 weaviate-client==3.26.7
+tf-keras
+numpy
